@@ -13,7 +13,11 @@
     "googleAnalytics": "UA-74318680-1",
     "disqus": "matthewtrombley"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "mrtromb@clemson.edu",
+    "linkedin": "https://www.linkedin.com/in/matthewtrombley",
+    "github": "http://github.com/mrtrombley"
+  },
   "theme": {
     "name": "casper"
   }
