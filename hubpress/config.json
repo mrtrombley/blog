@@ -2,7 +2,7 @@
   "meta": {
     "username": "mrtrombley",
     "repositoryName": "blog",
-    "branch": "gh-pages",
+    "branch": "gh-pages"
   },
   "site": {
     "title": "From the Desk of Matthew Trombley",
@@ -14,7 +14,7 @@
     "disqus": "matthewtrombley"
   },
   "socialnetwork": {
-    "email": "matthew@matthewtrombley.com",
+    "email": "mrtromb@clemson.edu",
     "linkedin": "https://www.linkedin.com/in/matthewtrombley",
     "github": "http://github.com/mrtrombley"
   },
