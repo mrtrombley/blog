@@ -2,7 +2,8 @@
   "meta": {
     "username": "mrtrombley",
     "repositoryName": "blog",
-    "branch": "gh-pages"
+    "branch": "gh-pages",
+    "cname": "www.matthewtrombley.com"
   },
   "site": {
     "title": "From the Desk of Matthew Trombley",
